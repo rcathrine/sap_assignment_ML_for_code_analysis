@@ -1,5 +1,6 @@
 # sap_assignment_ML_for_code_analysis
 
-assignment for sap internship
-test
+assignment for sap internship :
+
+needs up to date git version
 
