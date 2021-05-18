@@ -1,6 +1,6 @@
 # SAP internship : Machine learning for code analysis, assignment by Raphaël CATHRINE
 
-## To try my program (developped on WSL 2 ubuntu) you should have :
+## To try my program (developed on WSL 2 ubuntu) you should have :
 
 - an up to date git version
 - the python version and libraries required in pipenv the virtual environment in the code folder (include pytest, pyyaml...)
